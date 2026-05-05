@@ -1,0 +1,83 @@
+# EU Withdrawal Button – Italian translation
+# Copyright (C) 2026
+# This file is distributed under the same license as the EU Withdrawal Button plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: EU Withdrawal Button 1.0.0\n"
+"PO-Revision-Date: 2026-05-05\n"
+"Last-Translator: \n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "EU Withdrawal Button"
+msgstr "Pulsante di Recesso UE"
+
+msgid "Withdrawal Button"
+msgstr "Recesso dal contratto"
+
+msgid "Diritto di recesso (UE 2023/2673)"
+msgstr "Diritto di recesso (UE 2023/2673)"
+
+msgid "Recedi dal contratto qui"
+msgstr "Recedi dal contratto qui"
+
+msgid "Conferma recesso qui"
+msgstr "Conferma recesso qui"
+
+msgid "Sei sicuro di voler recedere dal contratto?"
+msgstr "Sei sicuro di voler recedere dal contratto?"
+
+msgid "Annulla"
+msgstr "Annulla"
+
+msgid "Registro Recessi"
+msgstr "Registro Recessi"
+
+msgid "Impostazioni"
+msgstr "Impostazioni"
+
+msgid "Salva impostazioni"
+msgstr "Salva impostazioni"
+
+msgid "Withdrawal Confirmation"
+msgstr "Conferma di Recesso"
+
+msgid "Dear %s,"
+msgstr "Gentile %s,"
+
+msgid "We confirm that your withdrawal from order #%1$s has been successfully registered on %2$s, pursuant to Art. 11a of EU Directive 2023/2673 (amending Directive 2011/83/EU on consumer rights)."
+msgstr "La informiamo che il suo recesso dall'ordine #%1$s è stato registrato con successo in data %2$s, ai sensi dell'art. 11a della Direttiva UE 2023/2673 (che modifica la Direttiva 2011/83/UE sui diritti dei consumatori)."
+
+msgid "Order"
+msgstr "Ordine"
+
+msgid "Withdrawal date"
+msgstr "Data recesso"
+
+msgid "Status"
+msgstr "Stato"
+
+msgid "Confirmed"
+msgstr "Confermato"
+
+msgid "What happens next?"
+msgstr "Cosa succede adesso?"
+
+msgid "Our team will process your request within %d business days."
+msgstr "Il nostro team elaborerà la sua richiesta entro %d giorni lavorativi."
+
+msgid "The refund will be issued using the same payment method used at the time of purchase, unless otherwise agreed."
+msgstr "Il rimborso sarà effettuato con lo stesso metodo di pagamento utilizzato al momento dell'acquisto, salvo accordi diversi."
+
+msgid "We will provide return instructions for the product (if applicable)."
+msgstr "Le forniremo istruzioni per la restituzione del prodotto (se applicabile)."
+
+msgid "This message was automatically generated in accordance with EU Directive 2023/2673 and Directive 2011/83/EU on consumer rights."
+msgstr "Questa comunicazione è stata generata automaticamente in conformità con la Direttiva UE 2023/2673 (recepita nel diritto nazionale) e la Direttiva 2011/83/UE."
+
+msgid "For further information:"
+msgstr "Per ulteriori informazioni:"

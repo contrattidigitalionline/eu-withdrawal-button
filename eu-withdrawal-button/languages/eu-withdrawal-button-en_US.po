@@ -1,0 +1,221 @@
+# EU Withdrawal Button – English translation
+# Copyright (C) 2026
+msgid ""
+msgstr ""
+"Project-Id-Version: EU Withdrawal Button 1.0.0\n"
+"PO-Revision-Date: 2026-05-05\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "EU Withdrawal Button"
+msgstr "EU Withdrawal Button"
+
+msgid "Implements the EU mandatory withdrawal button as required by Directive (EU) 2023/2673, effective 19 June 2026. Adds a compliant withdrawal function to WooCommerce order pages with email notifications and a full audit log."
+msgstr "Implements the EU mandatory withdrawal button as required by Directive (EU) 2023/2673, effective 19 June 2026. Adds a compliant withdrawal function to WooCommerce order pages with email notifications and a full audit log."
+
+msgid "EU Withdrawal"
+msgstr "EU Withdrawal"
+
+msgid "WooCommerce deve essere attivo per usare questo plugin."
+msgstr "WooCommerce must be active to use this plugin."
+
+msgid "Diritto di recesso (UE 2023/2673)"
+msgstr "Right of Withdrawal (EU 2023/2673)"
+
+msgid "Hai già esercitato il recesso per questo ordine il %s. Il rimborso sarà elaborato nei prossimi 14 giorni lavorativi."
+msgstr "You have already exercised your right of withdrawal for this order on %s. Your refund will be processed within the next 14 business days."
+
+msgid "Il periodo di recesso di 14 giorni per questo ordine è scaduto."
+msgstr "The 14-day withdrawal period for this order has expired."
+
+msgid "Hai il diritto di recedere dal presente contratto entro 14 giorni senza fornire alcuna motivazione. Il periodo di recesso scade tra %d giorni."
+msgstr "You have the right to withdraw from this contract within 14 days without giving any reason. The withdrawal period expires in %d days."
+
+msgid "Per esercitare il diritto di recesso, compilare il modulo sottostante e fare clic sul pulsante."
+msgstr "To exercise your right of withdrawal, please complete the form below and click the button."
+
+msgid "Nome *"
+msgstr "First name *"
+
+msgid "Cognome *"
+msgstr "Last name *"
+
+msgid "Indirizzo e-mail *"
+msgstr "Email address *"
+
+msgid "Motivo del recesso (facoltativo)"
+msgstr "Reason for withdrawal (optional)"
+
+msgid "Puoi lasciare vuoto questo campo."
+msgstr "You may leave this field blank."
+
+msgid "Recedi dal contratto qui"
+msgstr "Withdraw from the contract here"
+
+msgid "Cliccando sopra avvierai la procedura di recesso. Nel passaggio successivo ti verrà chiesta conferma."
+msgstr "By clicking above you will initiate the withdrawal procedure. You will be asked to confirm in the next step."
+
+msgid "Sei sicuro di voler recedere dal contratto?"
+msgstr "Are you sure you want to withdraw from the contract?"
+
+msgid "Cliccando \"Conferma recesso qui\" invierai la dichiarazione di recesso. Riceverai un'email di conferma."
+msgstr "By clicking \"Confirm withdrawal here\" you will submit your withdrawal declaration. You will receive a confirmation email."
+
+msgid "Conferma recesso qui"
+msgstr "Confirm withdrawal here"
+
+msgid "Annulla"
+msgstr "Cancel"
+
+msgid "Recesso dal contratto"
+msgstr "Contract withdrawal"
+
+msgid "Ordine non trovato."
+msgstr "Order not found."
+
+msgid "Il periodo di recesso è scaduto."
+msgstr "The withdrawal period has expired."
+
+msgid "Hai già richiesto il recesso per questo ordine."
+msgstr "You have already requested withdrawal for this order."
+
+msgid "Compila tutti i campi obbligatori."
+msgstr "Please fill in all required fields."
+
+msgid "Errore durante la registrazione. Riprova."
+msgstr "Registration error. Please try again."
+
+msgid "Impossibile confermare il recesso. Riprova o contatta il supporto."
+msgstr "Unable to confirm withdrawal. Please try again or contact support."
+
+msgid "Recesso confermato con successo. Riceverai un'email di conferma a breve."
+msgstr "Withdrawal successfully confirmed. You will receive a confirmation email shortly."
+
+msgid "Recesso avviato dal cliente (ID recesso: %d). In attesa di conferma."
+msgstr "Withdrawal initiated by customer (withdrawal ID: %d). Awaiting confirmation."
+
+msgid "Recesso confermato dal cliente ai sensi della Direttiva UE 2023/2673."
+msgstr "Withdrawal confirmed by customer pursuant to EU Directive 2023/2673."
+
+msgid "Conferma di recesso – Ordine #%s"
+msgstr "Withdrawal confirmation – Order #%s"
+
+msgid "[%s] Nuovo recesso – Ordine #%s"
+msgstr "[%s] New withdrawal – Order #%s"
+
+msgid "Registro Recessi EU"
+msgstr "EU Withdrawal Log"
+
+msgid "Registro Recessi"
+msgstr "Withdrawal Log"
+
+msgid "Impostazioni"
+msgstr "Settings"
+
+msgid "Tutti"
+msgstr "All"
+
+msgid "In attesa"
+msgstr "Pending"
+
+msgid "Confermati"
+msgstr "Confirmed"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "Ordine"
+msgstr "Order"
+
+msgid "Cliente"
+msgstr "Customer"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Motivo"
+msgstr "Reason"
+
+msgid "Stato"
+msgstr "Status"
+
+msgid "Data richiesta"
+msgstr "Request date"
+
+msgid "Data conferma"
+msgstr "Confirmation date"
+
+msgid "Nessun recesso trovato."
+msgstr "No withdrawals found."
+
+msgid "Impostazioni EU Withdrawal Button"
+msgstr "EU Withdrawal Button Settings"
+
+msgid "Finestra di recesso (giorni)"
+msgstr "Withdrawal window (days)"
+
+msgid "La direttiva UE 2023/2673 prevede 14 giorni come minimo."
+msgstr "EU Directive 2023/2673 sets 14 days as the legal minimum."
+
+msgid "Email notifiche admin"
+msgstr "Admin notification email"
+
+msgid "Riceverà una notifica ad ogni recesso confermato."
+msgstr "This address will receive a notification for every confirmed withdrawal."
+
+msgid "Salva impostazioni"
+msgstr "Save settings"
+
+msgid "Impostazioni salvate."
+msgstr "Settings saved."
+
+msgid "Recessi per pagina"
+msgstr "Withdrawals per page"
+
+msgid "Confermato"
+msgstr "Confirmed"
+
+msgid "Conferma di recesso – Ordine #%s"
+msgstr "Withdrawal confirmation – Order #%s"
+
+msgid "Withdrawal Confirmation"
+msgstr "Withdrawal Confirmation"
+
+msgid "Dear %s,"
+msgstr "Dear %s,"
+
+msgid "We confirm that your withdrawal from order #%1$s has been successfully registered on %2$s, pursuant to Art. 11a of EU Directive 2023/2673 (amending Directive 2011/83/EU on consumer rights)."
+msgstr "We confirm that your withdrawal from order #%1$s has been successfully registered on %2$s, pursuant to Art. 11a of EU Directive 2023/2673 (amending Directive 2011/83/EU on consumer rights)."
+
+msgid "Order"
+msgstr "Order"
+
+msgid "Withdrawal date"
+msgstr "Withdrawal date"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "Confirmed"
+msgstr "Confirmed"
+
+msgid "What happens next?"
+msgstr "What happens next?"
+
+msgid "Our team will process your request within %d business days."
+msgstr "Our team will process your request within %d business days."
+
+msgid "The refund will be issued using the same payment method used at the time of purchase, unless otherwise agreed."
+msgstr "The refund will be issued using the same payment method used at the time of purchase, unless otherwise agreed."
+
+msgid "We will provide return instructions for the product (if applicable)."
+msgstr "We will provide return instructions for the product (if applicable)."
+
+msgid "This message was automatically generated in accordance with EU Directive 2023/2673 and Directive 2011/83/EU on consumer rights."
+msgstr "This message was automatically generated in accordance with EU Directive 2023/2673 and Directive 2011/83/EU on consumer rights."
+
+msgid "For further information:"
+msgstr "For further information:"

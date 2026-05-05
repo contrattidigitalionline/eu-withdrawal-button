@@ -1,0 +1,40 @@
+/* EU Withdrawal Button – admin styles */
+
+.euwb-admin-wrap h1 {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.euwb-badge {
+    display: inline-block;
+    background: #dc3232;
+    color: #fff;
+    font-size: 0.65em;
+    padding: 3px 10px;
+    border-radius: 20px;
+    vertical-align: middle;
+    font-weight: 600;
+}
+
+.euwb-table {
+    margin-top: 1em;
+}
+
+.euwb-status {
+    display: inline-block;
+    padding: 3px 10px;
+    border-radius: 20px;
+    font-size: 0.85em;
+    font-weight: 600;
+}
+
+.euwb-status--confirmed {
+    background: #edfaef;
+    color: #1e6422;
+}
+
+.euwb-status--pending {
+    background: #fff8e1;
+    color: #6b4c00;
+}
